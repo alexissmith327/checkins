@@ -1,7 +1,6 @@
 {
   "name": "checkins",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "npm run lite",
@@ -12,5 +11,19 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexissmith327/checkins.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexissmith327/checkins/issues"
+  },
+  "homepage": "https://github.com/alexissmith327/checkins#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
   }
 }
